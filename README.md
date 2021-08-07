@@ -39,9 +39,12 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hubblin&layout=compact)
   
-  <br/><br/><br/>
+  <br/><br/>
+  <h3>:mortar_board:My Projects</h3>  
+  <br/>
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hubblin&repo=note_app_vanilla&theme=flag-india)](https://github.com/hubblin/note_app_vanilla)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hubblin&repo=color-picker-vanilla&theme=flag-india)](https://github.com/hubblin/color-picker-vanilla)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hubblin&repo=color-picker-vanilla&theme=slateorange)](https://github.com/hubblin/color-picker-vanilla)
+  
 </div>
 
