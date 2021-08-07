@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hubblin&repo=note_app_vanilla)](https://github.com/hubblin/note_app_vanilla)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hubblin&repo=note_app_vanilla&theme=flag-india)](https://github.com/hubblin/note_app_vanilla)
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hubblin&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)  
