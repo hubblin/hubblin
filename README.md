@@ -1,5 +1,7 @@
 <div align=center><h1>👋 Hi, I'm hubblin </h1></div>
 
+
+
 <!--
 **hubblin/hubblin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,6 +18,9 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
+    
+ ![](https://img.shields.io/github/followers/hubblin?style=social)
+ [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhubblin&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   
 ![hubblin's GitHub stats](https://github-readme-stats.vercel.app/api?username=hubblin&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
   <br/>
