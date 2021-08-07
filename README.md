@@ -1,4 +1,4 @@
-<div align=center><h1>👋 Hi, I'm hubblin </h1></div>
+<div align=center><h1>👋 Hi, I'm HoKyun Lim </h1></div>
 
 
 
@@ -43,13 +43,6 @@ Here are some ideas to get you started:
   <br/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hubblin&layout=compact)
-  
-  <br/><br/>
-  <h3>:mortar_board:My Projects</h3>  
-  <br/>
-  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hubblin&repo=note_app_vanilla&theme=flag-india)](https://github.com/hubblin/note_app_vanilla)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hubblin&repo=color-picker-vanilla&theme=slateorange)](https://github.com/hubblin/color-picker-vanilla)
-  
+    
 </div>
 
