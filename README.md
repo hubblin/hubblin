@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   
 ![hubblin's GitHub stats](https://github-readme-stats.vercel.app/api?username=hubblin&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
   <br/>
-  <h3>Stack</h3>
+  <h3>:wrench:Stack:hammer:</h3>
   <p>Techs that I've used at least once</p>
   
  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
