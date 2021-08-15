@@ -38,6 +38,8 @@ Here are some ideas to get you started:
  <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white"/>
  <img src="https://img.shields.io/badge/-Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/>
  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
+ <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+ <img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=Heroku&logoColor=white"/>
   
   <br/>
   <br/>
@@ -46,6 +48,9 @@ Here are some ideas to get you started:
  <a href="mailto:lhkworld16@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
  <a href="https://github.com/hubblin"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
 
+  <br/>
+  <br/>
+    
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hubblin&layout=compact)
     
 </div>
