@@ -40,6 +40,7 @@ Here are some ideas to get you started:
  <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
  <img src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=Webpack&logoColor=white"/>
  <img src="https://img.shields.io/badge/-GreenSock-88CE02?style=flat-square&logo=GreenSock&logoColor=white"/>
+ <img src="https://img.shields.io/badge/-Swiper-6332F6?style=flat-square&logo=Swiper&logoColor=white"/>
   <br/>
  <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white"/>
  <img src="https://img.shields.io/badge/-Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/>
