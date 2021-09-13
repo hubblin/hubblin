@@ -47,7 +47,7 @@ Here are some ideas to get you started:
  <img src="https://img.shields.io/badge/-Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
- <img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=Heroku&logoColor=white"/>
+ <img src="https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=Netlify&logoColor=white"/>
   
   <br/>
   <br/>
